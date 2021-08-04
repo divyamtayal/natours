@@ -10,8 +10,8 @@
 6 silly lifecycle natours@1.0.0~precompile:sass: no script for precompile:sass, continuing
 7 info lifecycle natours@1.0.0~compile:sass: natours@1.0.0
 8 verbose lifecycle natours@1.0.0~compile:sass: unsafe-perm in lifecycle true
-9 verbose lifecycle natours@1.0.0~compile:sass: PATH: /usr/local/lib/node_modules/npm/bin/node-gyp-bin:/Users/jonas.io/Desktop/1-Natours/node_modules/.bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
-10 verbose lifecycle natours@1.0.0~compile:sass: CWD: /Users/jonas.io/Desktop/1-Natours
+9 verbose lifecycle natours@1.0.0~compile:sass: PATH: /usr/local/lib/node_modules/npm/bin/node-gyp-bin:/Users/divyam.io/Desktop/1-Natours/node_modules/.bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
+10 verbose lifecycle natours@1.0.0~compile:sass: CWD: /Users/divyam.io/Desktop/1-Natours
 11 silly lifecycle natours@1.0.0~compile:sass: Args: [ '-c', 'node-sass sass/main.scss css/style.css -w' ]
 12 silly lifecycle natours@1.0.0~compile:sass: Returned: code: 1  signal: null
 13 info lifecycle natours@1.0.0~compile:sass: Failed to exec compile:sass script
@@ -26,7 +26,7 @@
 14 verbose stack     at maybeClose (internal/child_process.js:886:16)
 14 verbose stack     at Process.ChildProcess._handle.onexit (internal/child_process.js:226:5)
 15 verbose pkgid natours@1.0.0
-16 verbose cwd /Users/jonas.io/Desktop/1-Natours/sass
+16 verbose cwd /Users/divyam.io/Desktop/1-Natours/sass
 17 error Darwin 16.7.0
 18 error argv "/usr/local/bin/node" "/usr/local/bin/npm" "run" "compile:sass"
 19 error node v6.10.1
